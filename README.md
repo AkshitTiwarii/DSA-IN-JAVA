@@ -99,8 +99,6 @@ This makes Java platform-independent. That means you can write your code on one 
 3. Start simple DSA topics: arrays, sorting, recursion, linked lists
 4. Practice regularly and keep building your skills
 
-> 🚀 Tip: Document your learning and upload code to GitHub from day one. This builds your portfolio!
+FlowChart on how to learn DSA (Source - Neetcode.io)
+<img width="1253" height="873" alt="image" src="https://github.com/user-attachments/assets/0423a1e6-581a-4874-972d-e652cd5c6820" />
 
----
-
-Need help setting up your first Java program or choosing an IDE? Just ask and I’ll guide you through it.
