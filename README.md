@@ -99,3 +99,16 @@
 - forEach Method
 - Stream API
 - Map Filter Reduce Sorted
+
+
+## Unit Testing
+
+- Junit is a testing framework used by software developers to test their software.
+
+### Testing Vs Unit Testing
+- Testing is done by test engineers, QA's, and testers hired specially for testing
+- Unit Testing 
+- SDLC-
+    - Design
+    - Develop
+    - Testing
