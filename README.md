@@ -1,9 +1,101 @@
-Just for perfecting git and github 
-Learning Java in deep for advancement
+## *From Basic To Advanced java, is here in this repository*
 
-Heiracrchy And Flow of Exceptions
-<img width="1919" height="1081" alt="image" src="https://github.com/user-attachments/assets/66bb19e0-b785-42d0-b683-d4fc9592c9a6" />
-
-
-Completed till exception handeling till now i.e 11/1/2026
-by 12 will be starting API's
+# Topics
+- Introduction to Java Course
+- Java Development Kit setup
+- First code in java
+- How Java Works
+- Variables in java
+- Data types in java
+- Literal
+- Type conversion
+- Assignment Operators
+- Relational Operators 
+- Logical Operators
+- If Else
+- If Else if
+- ternary
+- Switch Statement
+- Need For Loop
+- While Loop
+- Do While Loop
+- For Loop
+- Which Loop To Use
+- Class And Object Theory
+- Class and Object Practical
+- JDK JRE JVM
+- Methods
+- Method Overloading
+- Stack And Heap
+- Need of an Array
+- Creation of Array
+- Multi Dimensional Array
+- Jagged and 3D Array
+- Drawbacks of Array
+- Array of Objects
+- Enhanced for loop
+- What is String
+- Mutable vs Immutable string
+- StringBuffer and StringBuilder
+- static variable
+- static block
+- static method
+- Encapsulation
+- Getters and setters
+- this keyword
+- constructor
+- default vs parameterized constructor
+- this and super method
+- Naming Convention
+- Anonymous Object
+- Need of Inheritance
+- What is Inheritance
+- Single and Multilevel inheritance
+- Multiple Inheritance
+- Method Overriding
+- packages
+- Access Modifiers
+- Polymorphism
+- Dynamic Method Dispatch
+- Final keyword
+- Object Class equals toString hashcode
+- Upcasting and Downcasting
+- abstract keyword
+- Inner class
+- Anonymous Inner class
+- abstract and anonymous inner class
+- What is Interface
+- More on Interfaces
+- Need of Interface
+- What is Enum
+- enum if and switch
+- Enum Class
+- What is Annotation
+- Functional Interface
+- Lambda Expression
+- Lambda Expression with return
+- Types of Interface
+- What is Exception
+- Exception Handling using try catch
+- try with multiple catch
+- Exception Hierarchy
+- Exception throw keyword
+- Custom exception
+- Ducking Exception using throws
+- User Input using BufferedReader and Scanner
+- try with resources
+- Threads
+- Multiple Threads
+- Thread Priority and Sleep
+- Runnable vs Thread
+- Race Condition
+- Thread states
+- Collection API
+- ArrayList
+- Set
+- Map
+- Comparator vs Comparable
+- Need of Stream API
+- forEach Method
+- Stream API
+- Map Filter Reduce Sorted
