@@ -1,5 +1,7 @@
 # 📚 DSA in Java – Beginner-Friendly Guide
 
+Basic Java is completed in master branch.
+
 ## 🧭 Why Java for DSA?
 Java is a popular, beginner-friendly programming language used for building everything from web apps to mobile apps. It's also great for learning **Data Structures and Algorithms (DSA)**, thanks to its simplicity, built-in libraries, and object-oriented nature.
 
