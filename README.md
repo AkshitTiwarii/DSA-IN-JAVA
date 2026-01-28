@@ -112,3 +112,11 @@
     - Design
     - Develop
     - Testing
+
+- Steps for testing without Junit
+  - prepare
+  - provide testing input
+  - Run the test
+  - Provide Expected Output
+  - Perform Assertion
+  - Report test results 
