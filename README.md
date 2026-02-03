@@ -128,4 +128,31 @@
 
 
   ## DSA in Java (Starting on 31st Jan)
-  - 
+  - Arrays
+  - Linear Search in Array - O(N)
+  - Time Complexity - It is the measure of how running time  off algorithm increases with the size of input data
+  - Big O Notation 
+    - O(1) = Constant Time
+    - O(log n) = Logarithmic time
+    - O(N) = Linear Search Complexity 
+    - O(N^2) = Quadratic Time Complexity
+    - O(N log N) = Linearithmic Complexity 
+    - O(2^N) = Exponential Complexity
+    - O(N!) = Factorial Complexity 
+    - ![img.png](img.png)
+
+
+  - Searching
+    - Linear Search
+    - Binary Search
+    
+  - Sorting
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Quick Sort
+    - Heap Sort
+    - Merge Sort
+    - Counting Sort
+    - Bucket Sort
+    - Radix Sort
